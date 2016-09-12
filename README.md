@@ -1,2 +1,2 @@
-# python_GuessNumber
-a practice program for Python
+## python_GuessNumber
+This is a short program I wrote for Python class, just to practice. I decided to see if I could make a program that would basically do the same thing as the JavaScript program I wrote like this. Had similar problem where a false negative was returned when I guessed the correct number, but found that by converting the randomint to a string it would then match the input value of the guess variable.
