@@ -1,3 +1,5 @@
+# I tried to make the AI have some personality and not to let you leave the game, so it loops on and on purpose. 
+
 import random
 count = 0
 
